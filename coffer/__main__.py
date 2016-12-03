@@ -1,5 +1,5 @@
-from coffer.cli import coffer
+from coffer.cli import cli
 
 
 def main():
-    coffer()
+    cli()
